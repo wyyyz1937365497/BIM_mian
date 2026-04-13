@@ -11,7 +11,11 @@ from semantic_selector.camera_utils import (
     estimate_gaussian_extent,
 )
 from semantic_selector.mesh_transfer import transfer_labels_to_mesh, save_colored_mesh
-from semantic_selector.sugar_loader import load_gaussian_model, load_gaussians_xyz
+from semantic_selector.sugar_loader import (
+    load_gaussian_model,
+    load_gaussians_xyz,
+    refine_gaussian_model,
+)
 
 __all__ = [
     "InteractiveSemanticSelector",
@@ -22,4 +26,5 @@ __all__ = [
     "save_colored_mesh",
     "load_gaussian_model",
     "load_gaussians_xyz",
+    "refine_gaussian_model",
 ]
