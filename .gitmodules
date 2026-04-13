@@ -1,0 +1,9 @@
+[submodule "examples/GaussianEditor"]
+	path = examples/GaussianEditor
+	url = https://github.com/buaacyw/GaussianEditor.git
+[submodule "examples/SuGaR"]
+	path = examples/SuGaR
+	url = https://github.com/Anttwo/SuGaR.git
+[submodule "examples/sam3"]
+	path = examples/sam3
+	url = https://github.com/facebookresearch/sam3.git
