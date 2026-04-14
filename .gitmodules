@@ -3,7 +3,7 @@
 	url = https://github.com/buaacyw/GaussianEditor.git
 [submodule "examples/SuGaR"]
 	path = examples/SuGaR
-	url = https://github.com/Anttwo/SuGaR.git
+	url = https://github.com/wyyyz1937365497/SuGaR.git
 [submodule "examples/sam3"]
 	path = examples/sam3
 	url = https://github.com/facebookresearch/sam3.git
